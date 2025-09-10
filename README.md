@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @badettie
-- 👀 I’m interested in coding and programming
-- 🌱 I want to learn how to code hehe
+- 👋 yoii, I’m badettie
+- 👀 I’m interested in networking
+-  I want to learn how to code hehe
 
 
 <!---
